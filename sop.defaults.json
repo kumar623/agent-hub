@@ -1,0 +1,8 @@
+{
+  "temp_c": { "min": 18.0, "max": 26.0, "target": 23.0, "max_delta": 1.0 },
+  "humidity": { "min": 55.0, "max": 80.0, "target": 65.0, "max_delta": 3.0 },
+  "co2_ppm": { "min": 700, "max": 1200, "target": 900, "max_delta": 100 },
+  "ph": { "min": 5.6, "max": 6.4, "target": 6.0, "max_delta": 0.2 },
+  "ec_ms_cm": { "min": 1.2, "max": 2.8, "target": 2.2, "max_delta": 0.2 },
+  "light_ppfd": { "min": 150, "max": 600, "target": 300, "max_delta": 40 }
+}
